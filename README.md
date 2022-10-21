@@ -1,7 +1,7 @@
 # Cristian D. Mocho
 
-|📱 +351 917 521 588|Skype: cristian.mocho|cristiandmocho@outlook.com|e-mail: cristiandmocho@gmail.com|
-|-------------------|---------------------|--------------------------|--------------------------------|
+|📞 +55 48 99206-6596|Skype: cristian.mocho|Teams: cristiandmocho@outlook.com|✉️: cristiandmocho@gmail.com|
+|--------------------|---------------------|--------------------------|--------------------------------|
 
 ## Profile
 I’m a Senior Software Engineer with over 21 years of experience in the industry. I’ve worked for
