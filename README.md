@@ -4,7 +4,7 @@
 |--------------------|---------------------|--------------------------|--------------------------------|
 
 ## Profile
-I’m a Senior Software Engineer with over 21 years of experience in the industry. I’ve worked for
+I’m a Senior Software Engineer with 25 years of experience in the industry. I’ve worked for
 several companies in Brazil, Portugal, France, England, Ireland, Germany, Lithuania and
 Sweden, through different projects in Banking, Healthcare, Construction, Sales and Sports and
 Leisure. I’m passionate about making products that are going to, or are already changing
@@ -39,16 +39,25 @@ bug fixes, which was very beneficial for both the customer and the company;
 * Only two weeks into the job at Avi Medical GmbH, in Munich, I had already created the
 entire database schema documentation as well as a hiring guide book for new
 developers entering the team;
-* Now at IKEA as a contractor (3rd party) I’m part of the Cyber Security Engineering Group,
-writing software that will be used by the entire company.
+* At IKEA as a contractor (3rd party) I was part of the Cyber Security Engineering Group,
+back-end API team, writing an application that manages security risks for IKEA's catalogue of over 3600 systems.
 
 ## Career History
-> Senior Software Engineer, IKEA (via Nexere Ltd.)        *        Apr 2022 – present
 
-Acting as a back-end engineer for the project, part of the cyber security group, writing APIs that will be used by one of
+> Owner, ezSystems Consulting Lda.           *             Sep 2022 – 
+
+After so many years filling positions in companies all over the world, now I decided to go "all in"! Working alongside companies of all sizes, my job is to make sure they succeed! From migration of projects that are currently stuck with an old tech-stack to greefield projects, from start-ups that are struggling to deploy their MVP to companies that are just trying to add features to an existing product, I've been enjoying to work with so many interesting projects and people!
+
+Currently advocating for the going #backtothessr and the usage of Open Source technologies in development, I've been studying and actively using native Web Components in my projects with huge success, specially in terms of maintenance and scalability! Being platform and framework-agnostic, I believe that native Web Components are the definitive answer to a healthy development environment and the proper way to create components you REALLY can reuse on any project!
+
+Techs we use at ezSystems are, mainly, NodeJS, Express/Fastify (although we've been experimenting with Koa), JWT, Socket.io, ETA, Vue3 (with Vite), Web Components, custom events, ECMAScript 2022 and TypeScript (back and front-end, depending on the framework and the demands of the project); our back-end normally consists of a MySQL or PostgreSQL database, micro-services in Node or .Net Core C# (again, depending on the demands of the clients), Jest, RabbitMQ, Redis etc. and various libraries to support the development, such as PrimeFaces, Shoelace, Bootstrap etc.
+
+> Senior Software Engineer, IKEA (via Nexere Ltd.)        *        Apr 2022 – Sep 2022
+
+Acting as a back-end engineer for the project, part of the cyber security group, writing APIs that are being used by one of
 the newest products in the company. Working in an Agile environment directly with the Project
-Owner to make sure we deliver the next versions in time - V1 is in production.
-Technologies involved include NodeJS with Fastify, PostgreSQL, Google Cloud VPSs, Microsoft AD (for SSO) and more.
+Owner to make sure we delivered the next versions in time - V2 is currently live.
+Technologies involved included NodeJS with Fastify, PostgreSQL, Google Cloud VPSs, Microsoft AD (for SSO) and more.
 
 > Senior Software Engineer, InControl Lda.           *             Jun 2021 – Apr 2022
 
@@ -129,4 +138,4 @@ Managing and Maintaining Windows 2003 Server Environment
 * Portuguese – native language
 * English - Fluent
 * Spanish - Professional knowledge
-* Italian, French, Swedish - Some knowledge (Studying)
+* Italian, French - Some knowledge (Studying)
