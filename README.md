@@ -113,23 +113,23 @@ MCP - Microsoft Certified Professional
 Managing and Maintaining Windows 2003 Server Environment
 
 ## IT Skills
-* NodeJS / Express – Highly skilled
-* EJS / Express Layouts – Highly skilled
-* Javascript (ES5, ES6, ES7) and TypeScript – Highly skilled
-* JQuery – Highly skilled
-* HTML & CSS – Highly skilled
-* Fastify – Skilled
-* ReactJS – Skilled
-* VueJS – Skilled
-* MS SQL Server – Skilled
-* MySQL – Skilled
-* Git, SVN and Mercurial – Very competent
-* Bootstrap 4 - Competent
-* Mocha / Jasmine / Jest – Skilled
-* C# – Skilled
-* Jira, Confluence, GitHub, GitLab – Very competent
-* Cordova – Very competent
-* MongoDB – Competent
+* NodeJS
+* Express
+* EJS / Express Layouts / ETAjs
+* Javascript (ES5, ES6, ES7) and TypeScript
+* JQuery
+* HTML & CSS
+* Fastify / Koa
+* React / VueJS
+* MS SQL Server / MySQL / PostgreSQL – Skilled
+* Git, SVN and Mercurial
+* Bootstrap 4, PrimeFaces, Elements, Shoelace
+* Mocha / Jasmine / Jest
+* C# .Net 4.0
+* Jira, Confluence, GitHub, GitLab
+* Cordova
+* MongoDB
+
 * E2E testing – Some knowledge
 * Azure Cloud / Amazon AWS / GCP – Some knowledge
 * Fast and eager to learn ANYTHING!
