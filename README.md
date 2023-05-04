@@ -5,7 +5,7 @@
 
 ## Profile
 I’m a Senior Software Engineer with 25 years of experience in the industry. I’ve worked for
-several companies in Brazil, Portugal, France, England, Ireland, Germany, Lithuania and
+several companies in Brazil, Portugal, France, United Kingdom, Ireland, Germany, Lithuania and
 Sweden, through different projects in Banking, Healthcare, Construction, Sales and Sports and
 Leisure. I’m passionate about making products that are going to, or are already changing
 people’s lives, and I’m proud that I have been part of major projects that were aimed at that goal.
