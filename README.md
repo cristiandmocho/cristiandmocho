@@ -2,7 +2,7 @@
 
 |📞 +44 20 3239 6303<br>📞 +34 679 619 806|Skype: cristian.mocho|Teams: cristiandmocho@outlook.com|✉️ cristiandmocho@gmail.com|
 |--------------------|---------------------|--------------------------|--------------------------------|
-|https://twitch.tv/archangel77pt| 🌐 Madrid, Spain |https://youtube.com/@ezSystemsCeT|✉️ cristian.mocho@ezsystems.net|
+|https://twitch.tv/archangel77pt| 🌐 Pontevedra, Spain |https://youtube.com/@ezSystemsCeT|✉️ cristian.mocho@ezsystems.net|
 
 ## PROFILE
 I’m a Senior Software Engineer (back-end first) with 25 years of experience in the industry. I’ve worked for several companies in 8 countries, through different projects in Banking, Healthcare, Construction, e-Commerce and Sports and Leisure. I’m passionate about making products that are going to, or are already changing people’s lives, and I’m proud that I have been part of major projects that were aimed at that goal. A true problem-solver, fast and eager to learn!
