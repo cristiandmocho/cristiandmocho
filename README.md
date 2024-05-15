@@ -46,9 +46,7 @@ Computer and Information Sciences
 MCP - Microsoft Certified Professional
 Managing and Maintaining Windows 2003 Server Environment
 
-## IT SKILLS
-NodeJS, Express/Fastify/Koa, EJS/ETA/Express Layouts, ES5, ES6, ES7 and TypeScript, JQuery, HTML, CSS, React, Vue3, SQL Server, MySQL, PostgreSQL, MongoDB, Git/SVN, Bootstrap/PrimeFaces/Shoelace, Mocha/Jasmine/Jest, C# .Net, Jira, Confluence, GitHub/GitLab/BitBucket, Cordova
-> Some knowledge of E2E testing, Azure/Amazon AWS/GCP, Jenkins, Docker
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandmocho&layout=compact)
 
 ## LANGUAGES
 Portuguese (native), English (native), Spanish (B1), Italian (A1), French (A1)
