@@ -3,6 +3,13 @@
 |📞 +351 961 742 835|🌐 Braga, Portugal|https://youtube.com/@ezSystemsCeT|✉️ cristian.mocho@ezsystems.net|
 |--------------------|------------------|---------------------------------|-------------------------------|
 
+<div style="width: 100%; display: grid; grid-template-columns: 1fr 1fr; align-content: start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandmocho&layout=compact&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cristiandmocho&show_icons=true&theme=cobalt&hide_rank=true" />
+</div>
+
+---
+
 ## PROFILE
 I’m a Senior Software Engineer (back-end first) with 25 years of experience in the industry. I’ve worked for several companies in 8 countries, through different projects in Banking, Healthcare, Construction, e-Commerce and Sports and Leisure. I’m passionate about making products that are going to, or are already changing people’s lives, and I’m proud that I have been part of major projects that were aimed at that goal. A true problem-solver, fast and eager to learn!
 
@@ -12,12 +19,6 @@ I’m a Senior Software Engineer (back-end first) with 25 years of experience in
 - In 2012 I was hired to create a new version of a system for Blatchford & Sons, in the UK. Being part of a team of 4 people, we were able to finish it 33% faster due to my experience in creating reusable code;
 - In 2010, while working at Stefanini, in Brazil, I was able to cut the development time in half due to the clarification of project requirements and fast implementation of features;
 - In 2001, working as a VB6 programmer, I created one of the largest systems in terms of available features, for sports clubs and gyms in existence on the market in Brazil. It took 3 years to complete the project, but there are still clubs using it to this day;
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandmocho)
-
----
 
 ## CAREER HISTORY
 ### Owner, ezSystems Consulting Lda. 	Sep 2022 – present
