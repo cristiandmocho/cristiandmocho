@@ -13,6 +13,8 @@ I’m a Senior Software Engineer (back-end first) with 25 years of experience in
 - In 2010, while working at Stefanini, in Brazil, I was able to cut the development time in half due to the clarification of project requirements and fast implementation of features;
 - In 2001, working as a VB6 programmer, I created one of the largest systems in terms of available features, for sports clubs and gyms in existence on the market in Brazil. It took 3 years to complete the project, but there are still clubs using it to this day;
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandmocho&layout=compact)
+
 ## CAREER HISTORY
 ### Owner, ezSystems Consulting Lda. 	Sep 2022 – present
 Working alongside companies of all sizes, from migration of projects with an old tech-stack to greenfield projects, from start-ups launching their MVP to well-stablished companies adding features to an existing product, I’ve been enjoying to work with many interesting projects and people!
@@ -44,8 +46,6 @@ Computer and Information Sciences
 ### Infnet Institute (Rio de Janeiro, Brasil)	2007 – 2007
 MCP - Microsoft Certified Professional
 Managing and Maintaining Windows 2003 Server Environment
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandmocho&layout=compact)
 
 ## LANGUAGES
 Portuguese (native), English (native), Spanish (B1), Italian (A1), French (A1)
