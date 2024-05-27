@@ -13,7 +13,11 @@ I’m a Senior Software Engineer (back-end first) with 25 years of experience in
 - In 2010, while working at Stefanini, in Brazil, I was able to cut the development time in half due to the clarification of project requirements and fast implementation of features;
 - In 2001, working as a VB6 programmer, I created one of the largest systems in terms of available features, for sports clubs and gyms in existence on the market in Brazil. It took 3 years to complete the project, but there are still clubs using it to this day;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandmocho&layout=compact)
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandmocho)
+
+---
 
 ## CAREER HISTORY
 ### Owner, ezSystems Consulting Lda. 	Sep 2022 – present
