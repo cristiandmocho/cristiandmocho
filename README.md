@@ -14,6 +14,7 @@
 I’m a Senior Software Engineer (back-end first) with 25 years of experience in the industry. I’ve worked for several companies in 8 countries, through different projects in Banking, Healthcare, Construction, e-Commerce and Sports and Leisure. I’m passionate about making products that are going to, or are already changing people’s lives, and I’m proud that I have been part of major projects that were aimed at that goal. A true problem-solver, fast and eager to learn!
 
 ## KEY ACHIEVEMENTS
+- April 2023 I was called back to collaborate with Blatchford & Sons. I put to work a script to import product and price data from another system, that was parked for four years, allowing them to monthly invoice products that, summed up, ammount to 100,000.00 £ in profits for the forseable future;
 - In 2023, in my first month at Compleet GmbH (new client of ezSystems Ltd.) I created a mock API server for the main applications that cuts in 20% the developers’ environment setup time, making onboarding of new team members easier and quicker;
 - In 2020, only two weeks into the job at Avi Medical GmbH, in Munich, I had already created the entire database schema documentation as well as a hiring guide book for front-end developers interviews;
 - In 2012 I was hired to create a new version of a system for Blatchford & Sons, in the UK. Being part of a team of 4 people, we were able to finish it 33% faster due to my experience in creating reusable code;
@@ -22,8 +23,8 @@ I’m a Senior Software Engineer (back-end first) with 25 years of experience in
 
 ## CAREER HISTORY
 ### Owner, ezSystems Consulting Lda. 	Sep 2022 – present
-Working alongside companies of all sizes, from migration of projects with an old tech-stack to greenfield projects, from start-ups launching their MVP to well-stablished companies adding features to an existing product, I’ve been enjoying to work with many interesting projects and people!
-> NodeJS with Express/Fastify/Koa, Auth0, JWT, Socket.io, EJS/ETA, Vue3/Vuex (with Vite), Nuxt, Web Components, custom events, ECMAScript 2022 and TypeScript (back and front-end, depending on the framework and the demands of the project), MySQL or PostgreSQL, micro-services, .Net Core C#, Jest, RabbitMQ, Redis, Jenkins, Docker, Github actions, Puppeteer/Playwrite, PrimeFaces, Shoelace, Bootstrap etc.
+Working alongside companies of all sizes, from migration of projects with an old tech-stack to greenfield projects, from start-ups launching their MVP to well-stablished companies adding features to an existing product, I’ve been enjoying to work with many interesting projects and people! Most recently I was called back to collaborate with Blatchford UK and I'm responsible for the maintenance and improvement of RMS, one of their main systems.
+> C# .Net 4.2, jQuery, SQL Server for RMS, and NodeJS with Express/Fastify/Koa, Auth0, JWT, Socket.io, EJS/ETA, Vue3/Vuex (with Vite), Nuxt, Web Components, custom events, ECMAScript 2022 and TypeScript (back and front-end, depending on the framework and the demands of the project), MySQL/PostgreSQL, micro-services, .Net Core C# 7, Jest, RabbitMQ, Redis, Jenkins, Docker, Github actions, Puppeteer/Playwright, PrimeFaces, Shoelace, WebSockets for newer projects.
 
 ### Senior Software Engineer, IKEA (via Nexere Ltd.)	Apr 2022 – Sep  2022
 Acting as back-end engineer, part of the cyber security group, writing APIs that were used by one of the newest products in the company. Working in a Agile environment directly with the Project leader to make sure we deliver the MVP in time.
