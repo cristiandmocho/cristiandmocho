@@ -1,12 +1,7 @@
 # Cristian D. Mocho
 
-|📞 +351 961 742 835|🌐 Braga, Portugal|https://youtube.com/@ezSystemsCeT|✉️ cristian.mocho@ezsystems.net|
-|--------------------|------------------|---------------------------------|-------------------------------|
-
-<div style="width: 100%; display: grid; grid-template-columns: 1fr 1fr; align-content: start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandmocho&layout=compact&theme=cobalt" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cristiandmocho&show_icons=true&theme=cobalt&hide_rank=true" />
-</div>
+|📞 +351 961 742 835|🌐 Braga, Portugal|✉️ cristian.mocho@ezsystems.net|
+|--------------------|------------------|-------------------------------|
 
 ---
 
